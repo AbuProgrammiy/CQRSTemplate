@@ -1,8 +1,14 @@
 ## CQRS Sample Template
-##### **You can use this template to boost your project.**
+### **You can use this template to boost your project.**
+#### Abilities:
+##### Entity Framework Core (ORM) for working with database
+##### PostgreSQL database system
+##### Sending email
+##### Generating Authentication Token
 #
-### Platform: .NET 8
-#
+### Details:
+#### Platform: .NET 8
+####
 #### Installed Packages:
 ##### API:
 ###### Microsoft.EntityFrameworkCore.Design - 9.0.0
