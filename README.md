@@ -7,11 +7,11 @@
 ##### API:
 ###### Microsoft.EntityFrameworkCore.Design - 9.0.0
 ###### Swashbuckle.AspNetCore - 6.6.2
-##
+####
 ##### Infrastructure:
 ###### Microsoft.EntityFrameworkCore.Tools - 9.0.0
 ###### Npgsql.EntityFrameworkCore.PostgreSQL - 9.0.1
-##
+####
 ##### Application:
 ###### Microsoft.EntityFrameworkCore - 9.0.0
 ###### Microsoft.Extensions.Configuration - 9.0.0
