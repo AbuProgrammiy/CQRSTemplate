@@ -1,12 +1,12 @@
 ## CQRS Sample Template
-### **You can use this template to boost your project.**
-#### Abilities:
+#### **You can use this template to boost your project.**
+## Abilities:
 ##### Entity Framework Core (ORM) for working with database
 ##### PostgreSQL database system
 ##### Sending email
 ##### Generating Authentication Token
 #
-### Details:
+## Details:
 #### Platform: .NET 8
 ####
 #### Installed Packages:
@@ -27,5 +27,5 @@
 ###### Mapster - 7.4.0
 ###### System.IdentityModel.Tokens.Jwt - 8.2.1
 #
-#### When you run this template it will migrate simple User model. And will ready to use as follows:
+#### When you run this template it will migrate simple User model. And will ready to use as follows. Don't forget to customize appsettings.json:
 ![image](https://github.com/user-attachments/assets/fbfb2007-dd9a-4b2a-89fd-2c8cc1623258)
