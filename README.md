@@ -5,7 +5,6 @@
 ##### PostgreSQL database system
 ##### Sending email
 ##### Generating Authentication Token
-#
 ## Details:
 #### Platform: .NET 8
 ####
