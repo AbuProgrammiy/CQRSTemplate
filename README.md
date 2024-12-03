@@ -20,3 +20,6 @@
 ###### MediatR.Extensions.Microsoft.DependencyInjection - 11.0.0
 ###### Mapster - 7.4.0
 ###### System.IdentityModel.Tokens.Jwt - 8.2.1
+#
+#### When you run this template it will migrate simple User model. And will ready to use as follows:
+![image](https://github.com/user-attachments/assets/fbfb2007-dd9a-4b2a-89fd-2c8cc1623258)
