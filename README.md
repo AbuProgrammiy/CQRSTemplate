@@ -1,4 +1,4 @@
-## CQRS Sample Template v1.1.0
+## CQRS Sample Template `v1.1.0`
 #### **You can use this template to boost your project.**
 ## Abilities:
 ##### Entity Framework Core (ORM) for working with database
