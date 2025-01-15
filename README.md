@@ -1,10 +1,13 @@
-## CQRS Sample Template
+## CQRS Sample Template v1.1.0
 #### **You can use this template to boost your project.**
 ## Abilities:
 ##### Entity Framework Core (ORM) for working with database
 ##### PostgreSQL database system
-##### Sending email
-##### Generating Authentication Token
+## Services to use:
+##### Email sender service
+##### Authentication token generator service
+##### Password hasher service
+##### Background service
 ## Details:
 #### Platform: .NET 8
 ####
@@ -20,6 +23,7 @@
 ##### Application:
 ###### Microsoft.EntityFrameworkCore - 9.0.0
 ###### Microsoft.Extensions.Configuration - 9.0.0
+###### Microsoft.Extensions.Hosting.Abstractions 9.0.1
 ###### Microsoft.IdentityModel.Tokens - 8.2.1
 ###### MediatR - 11.0.0
 ###### MediatR.Extensions.Microsoft.DependencyInjection - 11.0.0
@@ -28,3 +32,6 @@
 #
 #### When you run this template it will migrate simple User model. And will ready to use as follows. Don't forget to customize appsettings.json:
 ![image](https://github.com/user-attachments/assets/fbfb2007-dd9a-4b2a-89fd-2c8cc1623258)
+#
+## Difference from v1.0.0
+##### BackgroundService added
